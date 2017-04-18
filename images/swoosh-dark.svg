@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="401px" viewBox="0 0 1400 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 47</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-1.26849894%" x2="50%" y2="97.7678571%" id="linearGradient-1">
+            <stop stop-color="#DBDBDB" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1.26849894%" x2="50%" y2="97.7678571%" id="linearGradient-2">
+            <stop stop-color="#B0B0B0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1.26849894%" x2="50%" y2="97.7678571%" id="linearGradient-3">
+            <stop stop-color="#CACACA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="INTERNALS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.840126812">
+        <g id="Vector-Chip-Overlay" transform="translate(0.000000, -1743.000000)">
+            <g id="Group-37" transform="translate(708.000000, 1946.500000) scale(-1, 1) translate(-708.000000, -1946.500000) translate(-2.000000, 1743.000000)">
+                <g id="Group-47">
+                    <path d="M1.98037998,136.813953 C1.98037998,136.813953 124.002887,106.697674 371.984112,167.790698 C619.965336,228.883721 786.270205,276.209302 993.905277,203.930233 C1201.54035,131.651163 1419.01595,0 1419.01595,0 L1420,407 L-2.27373675e-13,407 L1.98037998,136.813953 Z" id="Path-2" fill="url(#linearGradient-1)" opacity="0.485167572"></path>
+                    <path d="M2.01227462,336.423159 C2.01227462,336.423159 124.030662,103.248985 321.818532,187.255616 C519.606402,271.262247 827.604429,215.543563 1034.24847,200.113774 C1240.89252,184.683985 1419,372.426 1419,372.426 L1419,405 L2,405 L2.01227462,336.423159 Z" id="Path-2" fill="url(#linearGradient-2)" opacity="0.200000003" transform="translate(710.500000, 287.000000) scale(-1, 1) translate(-710.500000, -287.000000) "></path>
+                    <path d="M2.01227462,141 C2.01227462,141 116.158508,239.144105 367.083418,237.422506 C618.008327,235.700907 869.917256,406.139201 1078.52934,319.198455 C1287.14142,232.257709 1419,217.611152 1419,217.611152 L1419,407 L2,407 L2.01227462,141 Z" id="Path-2" fill="url(#linearGradient-3)" opacity="0.909929801" transform="translate(710.500000, 274.000000) scale(-1, 1) translate(-710.500000, -274.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,102 @@
+/*!
+ * bootstrap-vertical-tabs - v1.2.2
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2016-12-02
+ * Copyright (c) 2016 İsmail Demirbilek
+ * License: MIT
+ */
+.ic-tabs{
+	
+	position:relative;
+	display:block;
+	width: 780px;
+	max-width:100%;
+	margin:  -60px auto 0 auto;
+}
+.tabs-left {
+  padding:0;
+	margin-top:20px;
+}
+
+.tabs-left>li, .tabs-right>li {
+  float: none;
+  margin-bottom: 8px;
+	padding:0;
+}
+.tabs-left>li {
+  margin-right: 0;
+	padding:0;
+}
+
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+  
+  border-right-color: transparent;
+	background-color: #429BD2;
+	color: #FFF;
+	border: none;
+	border-radius: 0;
+}
+
+
+.tabs-left>li>a {
+ color: #FFF;
+  border: none;
+  display:block;
+}
+
+.tabs-left>li>a:hover {
+background-color: #429BD2;
+	color: #FFF;
+	border: none;
+	width:100%;
+	margin:0;
+}
+
+.dark-gray{
+	background-color: #475870;
+	color:#FFF;
+	font-family:'proxima_novalight';
+	font-size: 18px;
+	padding-left:0;
+	margin-left:0;
+	text-align:left;
+}
+.shadow{
+	/* Main Box Shadow */
+box-shadow: 0 -1px 34px 11px rgba(0,0,0,0.04);
+border-radius: 8px;
+	margin:0;
+	
+}
+
+.luxurybox{
+	margin:0;
+	
+}
+.tab-pane {
+	color:#429BD2;
+	font-family:'proxima_novalight';
+	font-size: 16px; 
+	padding:20px;
+	line-height: 35px;
+	opacity:1;
+	margin:0;
+}
+
+.ident {
+	width: 70px;
+	margin:0 auto;
+	display: block;
+	text-align:center;
+	margin-bottom:20px;
+}
+.tab-title{
+	color:#fff;
+	font-family:'edmondsansmedium';
+	font-size: 22px; 
+	padding:20px;
+	line-height: 40px;
+	
+}

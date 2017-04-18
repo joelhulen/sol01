@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="453px" viewBox="0 0 1400 453" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 37</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-1.26849894%" x2="50%" y2="97.7678571%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="INTERNALS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leadership-V2" transform="translate(0.000000, -1703.000000)" fill="url(#linearGradient-1)">
+            <g id="Section---Blog-Posts" transform="translate(-22.000000, 1501.000000)">
+                <g id="Group-42">
+                    <g id="Group-37" transform="translate(0.000000, 189.000000)">
+                        <path d="M2.01247396,159 C2.01247396,159 126.012474,124 378.012474,195 C630.012474,266 799.012474,321 1010.01247,237 C1221.01247,153 1442.01247,0 1442.01247,0 L1443.01247,473 L-2.27373675e-13,473 L2.01247396,159 Z" id="Path-2" opacity="0.100000001"></path>
+                        <path d="M2.01247396,392.311601 C2.01247396,392.311601 126.012474,120.296538 327.012474,218.296538 C528.012474,316.296538 841.012474,251.296538 1051.01247,233.296538 C1261.01247,215.296538 1442.01247,434.311601 1442.01247,434.311601 L1442.01247,472.311601 L2,472.311601 L2.01247396,392.311601 Z" id="Path-2" opacity="0.200000003" transform="translate(722.006237, 334.655800) scale(-1, 1) translate(-722.006237, -334.655800) "></path>
+                        <path d="M2.01247396,164 C2.01247396,164 118.012474,278.015063 373.012474,276.015063 C628.012474,274.015063 884.012474,472.015063 1096.01247,371.015063 C1308.01247,270.015063 1442.01247,253 1442.01247,253 L1442.01247,473.015063 L2,473.015063 L2.01247396,164 Z" id="Path-2" opacity="0.300000012" transform="translate(722.006237, 318.507531) scale(-1, 1) translate(-722.006237, -318.507531) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

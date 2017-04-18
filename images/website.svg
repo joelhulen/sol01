@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>RSS</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="INTERNALS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leadership-V2" transform="translate(-366.000000, -852.000000)" fill="#6A6D71">
+            <g id="Group-4" transform="translate(138.000000, 758.000000)">
+                <g id="Group">
+                    <g id="User-#1">
+                        <g id="Group" transform="translate(148.000000, 93.000000)">
+                            <path d="M83.509915,13.2549575 C83.509915,12.2832861 82.7167139,11.490085 81.7450425,11.490085 C80.7932011,11.490085 80,12.3031161 80,13.2549575 C80,14.2067989 80.7932011,15 81.7450425,15 C82.6968839,15 83.509915,14.2067989 83.509915,13.2549575 L83.509915,13.2549575 Z M89.2407932,15 C89.2407932,9.90368272 85.0963173,5.7592068 80,5.7592068 L80,8.43626062 C83.6090652,8.43626062 86.5439093,11.3909348 86.5439093,15 L89.2407932,15 Z M94,15 C94,7.28611898 87.713881,1.01983003 80,1 L80,3.67705382 C86.2464589,3.69688385 91.2832861,8.75354108 91.3031161,15 L94,15 Z" id="RSS"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
