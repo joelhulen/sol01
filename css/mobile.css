@@ -220,7 +220,7 @@
 	.blocks-right{
 		float: none;
 		text-align: center;
-		margin: 50px; auto;
+		margin: 50px auto;
 	}
 	h2.left{
 		text-align:center;
@@ -289,11 +289,8 @@
 		
 	}
 	.inner-content p{
-		padding:0 20px; !important;
-		display: block;
-		
-	
-		
+		padding:0 20px !important;
+		display: block;		
 	}
 		.inlineImg{
 		display: block;
@@ -872,10 +869,9 @@
 
 @media(max-width:1170px){
 	.navlinks a{color:#fff;line-height:86px;font-size:18px;text-transform:uppercase;font-weight:300; margin-top:-10px; }
-	.navlinks{float:;margin-top:0px; }
+	.navlinks{float:left;margin-top:0px; }
 	/*m=1*/
-	.smallBtn{background-color: #000;}
-	
+	.smallBtn{background-color: #000;
 		margin-left:0;display:block;background:none;border:none;text-align:left;padding:0;line-height:46px;font-size:14px;text-transform:uppercase;font-weight:300;color:#fff;opacity:0.5;
 	}
 	/*m=1*/
