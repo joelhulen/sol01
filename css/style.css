@@ -6,7 +6,6 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     font-family: 'futura_md_btbold';
     src: url('../fonts/Futura/futura-bold-bt-webfont.eot');
     src: url('../fonts/Futura/futura-bold-bt-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Futura/futura-bold-bt-webfont.woff2') format('woff2'),
          url('../fonts/Futura/futura-bold-bt-webfont.woff') format('woff'),
          url('../fonts/Futura/futura-bold-bt-webfont.ttf') format('truetype'),
          url('../fonts/Futura/futura-bold-bt-webfont.svg#futura_md_btbold') format('svg');
@@ -20,7 +19,6 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     font-family: 'proxima_nova_rgregular';
     src: url('../fonts/Proxima/proximanova-regular-webfont.eot');
     src: url('../fonts/Proxima/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Proxima/proximanova-regular-webfont.woff2') format('woff2'),
          url('../fonts/Proxima/proximanova-regular-webfont.woff') format('woff'),
          url('../fonts/Proxima/proximanova-regular-webfont.ttf') format('truetype'),
          url('../fonts/Proxima/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
@@ -35,7 +33,6 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     font-family: 'proxima_novalight';
     src: url('../fonts/Proxima/proximanova-light-webfont.eot');
     src: url('../fonts/Proxima/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Proxima/proximanova-light-webfont.woff2') format('woff2'),
          url('../fonts/Proxima/proximanova-light-webfont.woff') format('woff'),
          url('../fonts/Proxima/proximanova-light-webfont.ttf') format('truetype'),
          url('../fonts/Proxima/proximanova-light-webfont.svg#proxima_novalight') format('svg');
@@ -51,7 +48,6 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     font-family: 'edmondsansbold';
     src: url('../fonts/EdmondSans/edmondsans-bold-webfont.eot');
     src: url('../fonts/EdmondSans/edmondsans-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/EdmondSans/edmondsans-bold-webfont.woff2') format('woff2'),
          url('../fonts/EdmondSans/edmondsans-bold-webfont.woff') format('woff'),
          url('../fonts/EdmondSans/edmondsans-bold-webfont.ttf') format('truetype'),
          url('../fonts/EdmondSans/edmondsans-bold-webfont.svg#edmondsansbold') format('svg');
@@ -64,7 +60,6 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     font-family: 'edmondsansmedium';
     src: url('../fonts/EdmondSans/edmondsans-medium-webfont.eot');
     src: url('../fonts/EdmondSans/edmondsans-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/EdmondSans/edmondsans-medium-webfont.woff2') format('woff2'),
          url('../fonts/EdmondSans/edmondsans-medium-webfont.woff') format('woff'),
          url('../fonts/EdmondSans/edmondsans-medium-webfont.ttf') format('truetype'),
          url('../fonts/EdmondSans/edmondsans-medium-webfont.svg#edmondsansmedium') format('svg');
@@ -3928,13 +3923,13 @@ textarea{
 }
 /*m=1*/
 .blogger-name{
-    font-family: 'proxima_nova_rgregular, Arial;
+    font-family: 'proxima_nova_rgregular, Arial';
 
 	
 	font-size: 16px;
 color: #262B34;
 	text-transform: uppercase;
-	letter-spacing: 0.5x;
+	letter-spacing: 0.5px;
 	line-height:38px;
 	
 }
@@ -5744,7 +5739,6 @@ padding:0;
 	letter-spacing: 0.8px;
 	font-size:18px;
 	box-shadow: 1px 5px 3px 1px rgba(0,0,0,0.1);
-6
 }
 /* M=1 Callout Text */
 
