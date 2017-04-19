@@ -173,6 +173,11 @@
 				position: static;
 
 	}
+	.textpad{
+		width: 320px;
+		margin-top:20px;
+		padding: 0 20px;
+	}
 	.bio-info_block{
 		margin:0 auto;
 		width:100%;
@@ -1116,7 +1121,6 @@
 @media(max-width:410px){
 	.header10 h1{font-size:42px;line-height:52px;}
 	.header10 .sec3_1_btn{padding-left:20px;width:51%;}
-	.buttonMain{padding-left:20px;width:51%;} /*m=1*/
 
 	.header10_links a{margin-right:20px;}
 	.sec1_10 .sec3_4_text img{width:100%;}

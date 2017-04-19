@@ -1,0 +1,39 @@
+
+Diffs.txt ¯\_(ツ)_/¯
+
+Title: Solliance Website 
+Version: 1.1
+Date of Commit: 4/19/17
+
+
+CHANGES
+
+
+-----> index.html <----- 
+
+
+()CLASSES 
+
+	--> .sec1_1 .sec4_3
+		Wrapper for Global Footprint
+	
+	--> .m-headroom
+		Spacer for Gobal Footprint
+	
+	
+	
+-----> IMAGES <----- 
+
+	-->	qaIcon.svg
+	
+	-->	hqIcon.svg
+	
+	--> cmsIcon.svg
+	
+	--> azureexcellenceIcon.svg
+	
+	--> regionalexpertsIcon.svg
+
+
+
+
