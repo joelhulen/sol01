@@ -2,13 +2,32 @@
 Diffs.txt ¯\_(ツ)_/¯
 
 Title: Solliance Website 
+Version: 1.3
+Date of Commit: 5/7/17
+
+
+MANY CHANGES and UPDATES
+
+
+Added dev.html with missing HTML components and nav dropdown functionality
+
+Added dozens of new/updated styles to style.css and mobile.css
+
+Fixed Leadership.html and the layout of social icons on mobile
+
+Updated an error on homepage where a text paragraph was duplicated mistakenly 
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+Title: Solliance Website 
 Version: 1.2
 Date of Commit: 4/28/17
-
-
-CHANGES
-
-
 
 
 ()HTML
