@@ -69,6 +69,7 @@ box-shadow: 0 -1px 34px 11px rgba(0,0,0,0.04);
 border-radius: 8px;
 	margin:0;
 	
+	
 }
 
 .luxurybox{
@@ -100,3 +101,20 @@ border-radius: 8px;
 	line-height: 40px;
 	
 }
+
+@media(max-width:1170px){
+    .tab-title{
+        font-size: 17px;
+    
+       padding: 0 6px;
+    }
+    .dark-gray{
+        font-size: 14px;
+    }
+    .tab-pane{
+        font-size: 14px;
+        padding: 8px;
+    }
+    
+}
+

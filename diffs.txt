@@ -1,0 +1,98 @@
+
+Diffs.txt ¯\_(ツ)_/¯
+
+Title: Solliance Website 
+Version: 1.3
+Date of Commit: 5/7/17
+
+
+MANY CHANGES and UPDATES
+
+
+Added dev.html with missing HTML components and nav dropdown functionality
+
+Added dozens of new/updated styles to style.css and mobile.css
+
+Fixed Leadership.html and the layout of social icons on mobile
+
+Updated an error on homepage where a text paragraph was duplicated mistakenly 
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+Title: Solliance Website 
+Version: 1.2
+Date of Commit: 4/28/17
+
+
+()HTML
+
+	--> *Global
+		 <div class="mobile-bar"> <img class="mobile-logo-top" src="images/solliance-master.svg" 		 width="150"> </div>
+	
+	—-Added this line of HTML which somehow was omitted from every HTML page. This contains the mobile 	header and the logo that displays on mobile devices.
+
+
+	--> index.html
+	Changed location in html of button under “we can help with your web and mobile strategy” section. It 	was not centering because of where it was placed in the hierarchy. Also added some crude formatting to 	account for spacing. Will fix more appropriately later when CSS is refactored. 
+
+
+()CLASSES 
+
+	--> style.css / mobile.css / bootstrap.vertical-tabs.css
+		 Edits made to multiple lines to fix issue with mobile pop-out menu height
+		 Edits made to tech.html page tabs to fix some alignment issues
+		 Added a max width to image on the tech.html page that was causing the 			 canvas to extend beyond 100%
+	
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Diffs.txt ¯\_(ツ)_/¯
+
+Title: Solliance Website 
+Version: 1.1
+Date of Commit: 4/19/17
+
+
+CHANGES
+
+
+-----> index.html <----- 
+
+
+()CLASSES 
+
+	--> .sec1_1 .sec4_3
+		Wrapper for Global Footprint
+	
+	--> .m-headroom
+		Spacer for Gobal Footprint
+	
+	
+	
+-----> IMAGES <----- 
+
+	-->	qaIcon.svg
+	
+	-->	hqIcon.svg
+	
+	--> cmsIcon.svg
+	
+	--> azureexcellenceIcon.svg
+	
+	--> regionalexpertsIcon.svg
+
+
+
+
+

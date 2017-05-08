@@ -41,12 +41,92 @@
 	.mobile_menu, .mobile_menu_close, .mobile_socials{
 		display:block;
 	}
-	
+    .solid{
+        height: 100%;
+    }
 	
 }
 
 @media(max-width:970px){
-	
+    .icon-left-small{
+   float: none;
+        width: 150px;
+        margin: 0 auto !important;
+        padding-bottom:30px;
+        padding-top:30px;
+        
+    }
+    .nav>li>a:hover{
+    color: #fff;
+                background-color: none;
+
+}
+    .nav>li>a:focus{
+    color: #000;
+        font-size:17px;
+                background-color: none;
+background: none;
+}
+    .nav>li>a:active{
+    color: #000;
+                background-color: none;
+;
+        font-size: inherit;
+        
+}
+    ul .dropdown-menu a{
+        line-height: 60px;
+                background-color: none;
+
+    }
+    .social-blog{
+        width: 30px !important;
+        display: inline-block; 
+        clear: none;
+        margin: 15px;
+    }
+    .featured-rows-left{
+        text-align:center;
+    }
+    .featured-tech{
+        text-align: center !important;
+    }
+    .col-md-6:nth-child(2){
+        margin-top:60px;
+    }
+    .alignTo-text{
+      text-align:center !important;
+        margin-top: 60px;
+        padding:0;
+    }
+    .vert-align{
+        padding: 0;
+        margin: 0;
+    
+    }
+    h2 .left{
+        text-align:center;
+    }
+    .center-cut{
+        width:320px;
+        
+    }
+    .large-icon-feature{
+        width: 270px;
+    }
+    .cta-embed {
+        width: auto;
+    }
+    .align-right{
+        float:none;
+    }
+    #flex { 
+        display: flex; 
+      -webkit-flex-flow: column-reverse;
+  flex-flow: column-reverse;
+    }
+   
+   
 }
 
 @media(max-width:770px){
@@ -54,6 +134,7 @@
 		padding-left:20px;
 		padding-right:20px;
 	}
+    
 }
 
 @media(max-width:570px){
@@ -103,6 +184,12 @@
 	.nav1_links li a, .nav1_links li a:focus, .nav1_links li.active a{opacity:1; text-align:left;line-height:46px;font-size:14px;text-transform:uppercase;font-weight:300;}
 	.nav1_btn1{display:block;margin:0;letter-spacing:0px;text-align:left;padding:0;height:auto;line-height:46px;font-size:14px;text-transform:uppercase;font-weight:300;opacity:0.5;}
 	.nav1_btn1.blue, .nav1_btn1.blue:hover{background:none;}
+    .centered-img{
+        max-width: 100%;
+    }
+    .white{
+        text-align:center !important;
+    }
 	
 	.header1{height:auto;padding-bottom:80px;}
 	.header1_pretitle{margin-top:120px;}
@@ -173,6 +260,11 @@
 				position: static;
 
 	}
+	.textpad{
+		width: 320px;
+		margin-top:20px;
+		padding: 0 20px;
+	}
 	.bio-info_block{
 		margin:0 auto;
 		width:100%;
@@ -189,11 +281,7 @@
 		margin-top: 120px !important;
 		padding-top:-20px;
 	}
-	.buttonMain{
-		margin: 0 auto;
-		width: 280px !important;
-		margin-top: 40px;
-	}
+	
 	.anchor-columns{
 		visibility: hidden;
 	}
@@ -220,7 +308,7 @@
 	.blocks-right{
 		float: none;
 		text-align: center;
-		margin: 50px; auto;
+		margin: 50px auto;
 	}
 	h2.left{
 		text-align:center;
@@ -240,6 +328,7 @@
 		text-align: center !important;
 		margin: 0 auto !important;
 		
+		width: 280px !important;
 		
 	}
 	.drop{
@@ -289,11 +378,8 @@
 		
 	}
 	.inner-content p{
-		padding:0 20px; !important;
-		display: block;
-		
-	
-		
+		padding:0 20px !important;
+		display: block;		
 	}
 		.inlineImg{
 		display: block;
@@ -326,7 +412,7 @@
 		padding:0;
 	}
 	.inline{
-		display: inline;
+		display: inline !important;
 		clear: none;
 	}
 	.form-elements{
@@ -629,7 +715,13 @@
 @media(max-width:1170px){
 	.nav5{background:#429BD2;top:0;position:fixed;z-index:1000;}
 	.nav5 .nav5_logo{display:none;}
-	.nav5 a{margin:0;display:block;line-height:46px;font-size:14px;text-transform:uppercase;font-weight:300;}
+	.nav5 a{
+        margin:0;
+        display:block;
+        line-height:46px;
+        font-size:14px;
+        text-transform:uppercase;
+        font-weight:300;}
 	.nav5 .socials{float:none;margin:0;height:40px;line-height:40px;margin-top:30px;}
 	.nav5 .socials a{margin-right:27px;margin-left:0;display:inline-block;vertical-align:middle;}
 	.nav5 .mobile_menu_close{display:block;}
@@ -739,10 +831,14 @@
 	.footer6{height:auto;padding-bottom:50px;}
 	.footer6 .left, .footer6 .right{float:none;margin:10px 0;text-align:center;}
 	.footer6 .middle{margin:0;}
+    .active-state{
+        visibility: hidden;
+    }
 }
 
 @media(max-width:970px){
 	.sec4_6_slider{top:80px;left:430px;}
+    
 }
 
 @media(max-width:770px){
@@ -871,14 +967,50 @@
 */
 
 @media(max-width:1170px){
-	.navlinks a{color:#fff;line-height:86px;font-size:18px;text-transform:uppercase;font-weight:300; margin-top:-10px; }
-	.navlinks{float:;margin-top:0px; }
+	.navlinks a{
+        color:#fff;
+        line-height:36px;
+        font-size:18px;
+        text-transform:uppercase;
+        font-weight:300; 
+        margin-top:-10px; }
+	.navlinks{float:left;margin-top:0px; }
 	/*m=1*/
-	.smallBtn{background-color: #000;}
-	
+	.smallBtn{background-color: #000;
 		margin-left:0;display:block;background:none;border:none;text-align:left;padding:0;line-height:46px;font-size:14px;text-transform:uppercase;font-weight:300;color:#fff;opacity:0.5;
 	}
+    .author-img{
+        text-align:center;
+        width: 90px;
+        margin: 0 auto;
+        float: none !important;
+        padding: 10px;
+        display: block;
+        clear: both;
+    }
 	/*m=1*/
+    .blog-ident{
+        display: block;
+        clear: left;
+        text-align:center;
+        float: none;
+    }
+    .round-thumb{
+         width:100px;
+        text-align:center;
+        margin: 0 auto;
+        float: none;
+        display: block;
+       
+    }
+    .blog-preview-body{
+        text-align:left;
+        padding:0 !important;
+    }
+    .blog-date{
+        width: 100%;
+        padding: 0 0 20px 0;
+    }
 	.nav8 .mobile_socials a{display:inline-block;margin-right:20px;}
 	.header8 {padding-top:120px;}
 	.header8 .container{padding-bottom:350px;}
@@ -1120,7 +1252,6 @@
 @media(max-width:410px){
 	.header10 h1{font-size:42px;line-height:52px;}
 	.header10 .sec3_1_btn{padding-left:20px;width:51%;}
-	.buttonMain{padding-left:20px;width:51%;} /*m=1*/
 
 	.header10_links a{margin-right:20px;}
 	.sec1_10 .sec3_4_text img{width:100%;}
@@ -1180,7 +1311,7 @@
 @media(max-width:990px){
 	.sec4_11_block{margin-bottom:80px;}
 	.sec4_11_block.last{margin-bottom:30px;}
-	.sec4_11_block .image{float:none;}
+	.sec4_11_block .image{float:none; display: block; text-align:center; margin: 0 auto; padding-bottom: 25px;}
 	.sec4_11_block .inner{margin-left:0;}
 	.sec6_11 h2 span{display:inline;}
 }
